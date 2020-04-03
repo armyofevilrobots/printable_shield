@@ -37,6 +37,12 @@ Disassemble to disinfect, and be sure 3D printed parts lay flat or they may warp
 
 ## Printing
 
+**Important**: This should only be printed in PETG filament. The sanitization process will usually
+completely destroy PLA, and PLA is much more brittle and likely to shatter. Since these masks are kept
+next to peoples' eyes, that would be a bad outcome. We have not tested nylon, ABS, nor any other
+polyester filaments. We have tested the PETG in an autoclave at low temperature, and with
+bleach, and commercial sanitizing solution, without damage. See the cleaning instructions above.
+
 You can view a 3D version of the shield here: [3D Rendered Shield](shield_toggle_wide_v3.5.stl).
 
 I print this with an Ender3 at 250C and averaging 30mm/s speeds. Your mileage may vary. I
