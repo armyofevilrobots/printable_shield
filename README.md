@@ -24,4 +24,16 @@ am including a 3MF file here: [Face Shield v3.4 FAST]().
 
 If you want to print using your own slicer/settings, you can get the STL here: [Face Shield v3.5](https://github.com/armyofevilrobots/printable_shield/raw/master/shield_toggle_wide_v3.5.stl)
 
+## Laser Cutting
 
+The shield transparent components are:
+
+ - [The top shield](lasercut_files/TOPSHIELD_wide.pdf)
+ - [The face shield](lasercut_files/FACESHIELD_wide.pdf)
+
+There are also SVGs:
+![Top Shield](https://raw.github.com/armyofevilrobots/printable_shield/master/lasercut_files/TOPSHIELD_wide.svg?sanitize=true)
+![Face Shield](lasercut_files/FACESHIELD_wide.svg?raw=true)
+
+These should be cut from 0.005" through 0.010" clear PETG sheet. If you have an amazingly powerful laser, you could use 0.020", but it's very 
+finicky on a regular 65W laser engraver, and will likely crack at any size over 0.010".
